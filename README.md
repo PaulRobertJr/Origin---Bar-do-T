@@ -1,1 +1,3 @@
-# Origin-Salão e Barbearia
+# SalonBarber
+
+Projeto realizado durante a NLW-Origin.
